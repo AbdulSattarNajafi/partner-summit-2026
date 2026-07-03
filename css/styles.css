@@ -1756,7 +1756,7 @@ img {
   transition: all 0.25s ease;
 }
 .footer__menu a:hover {
-  color: #ff9d5a;
+  color: #fc6dc6;
 }
 .footer__menu li:first-child a {
   padding-left: 0;
@@ -1779,7 +1779,7 @@ img {
   transition: all 0.25s ease;
 }
 .footer-top-link:hover {
-  color: #ff9d5a;
+  color: #fc6dc6;
 }
 .footer-top-link i {
   font-size: 10px;
@@ -1905,8 +1905,8 @@ img {
   transition: all 0.3s ease;
 }
 .modal-btn:hover {
-  background-color: #ff9d5a;
-  border-color: #ff9d5a;
+  background-color: #fc6dc6;
+  border-color: #fc6dc6;
 }
 .modal-btn.disabled {
   opacity: 0.5;
