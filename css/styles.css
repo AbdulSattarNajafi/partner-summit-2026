@@ -160,7 +160,7 @@ img {
 
 .btn-up {
   position: fixed;
-  bottom: 60px;
+  bottom: 30px;
   right: 30px;
   z-index: 999;
   background: #fc6dc6;
@@ -201,6 +201,9 @@ img {
   h2 {
     font-size: 1.75rem;
   }
+  .btn-up {
+    bottom: 60px;
+  }
 }
 
 @media (min-width: 992px) {
@@ -209,6 +212,10 @@ img {
   }
   h2 {
     font-size: 2rem;
+  }
+  .btn-up {
+    bottom: 80px;
+    right: 40px;
   }
 }
 
